@@ -1,0 +1,15 @@
+20180403:
+=========
+course material: http://bootstrap-it.com/encryption/
+
+1) Security
+2) Encryption
+3) Linux Server Computing
+
+1) Data in transit
+2) data at rest
+3) DNS requests and replies
+
+
+SSL deprecated. Current protocol is TLS
+
